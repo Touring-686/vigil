@@ -23,3 +23,17 @@ Instead of directly executing actions suggested by untrusted tools or runtime fe
 ## Repository
 
 This repository contains the core implementation of **VIGIL**.
+
+## Citation
+If you find this project useful, please cite:
+
+```bibtex
+@article{Lin2026VIGILDL,
+  title={VIGIL: Defending LLM Agents Against Tool Stream Injection via Verify-Before-Commit},
+  author={Junda Lin and Zhaomeng Zhou and Zhi Zheng and Shuochen Liu and Tong Xu and Yong Chen and Enhong Chen},
+  journal={ArXiv},
+  year={2026},
+  volume={abs/2601.05755},
+  url={https://api.semanticscholar.org/CorpusID:284597109}
+}
+```
